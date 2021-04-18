@@ -1,0 +1,26 @@
+.btn-space {
+    margin-left: 20px;
+}
+
+.react-bs-table > .react-bs-container-header table {
+    table-layout: auto;
+}
+
+.react-bs-table > .react-bs-container-body table {
+    table-layout: auto;
+}
+
+.react-bs-table-search-form input{
+    width: 330px;
+}
+
+.custom-black{
+    color: white !important;
+    background-color: black !important;
+}
+
+.custom-footer ul {display: inline;}
+.custom-footer ul li { list-style: none;display: inline; padding-right: 15px;}
+.custom-footer ul li i { font-size: 24px}
+
+.top-buffer { margin-top:10px; }
