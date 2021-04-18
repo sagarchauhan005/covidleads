@@ -7,7 +7,7 @@ const Header = () => {
         <header>
             <div className="jumbotron jumbotron-fluid custom-black text-white text-center">
                 <div className="container">
-                    <h1 className="display-4">Covid Leads</h1>
+                    <h1 className="display-4">Covid Leads[Test]</h1>
                     <p className="lead">ICU Beds, Remedesvir, Plasma Donor, <br/>RT-PCR test etc around you.</p>
                 </div>
             </div>
