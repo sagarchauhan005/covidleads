@@ -5,6 +5,8 @@ import SubmitForm from './submit/SubmitForm.js';
 import Leads from './leads/Leads'
 import createBrowserHistory from 'history/createBrowserHistory';
 const history = createBrowserHistory();
+import ReactGA from 'react-ga';
+ReactGA.initialize('G-RKTN2744F1');
 
 
 const App = () => {
