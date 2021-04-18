@@ -8,7 +8,7 @@ const Section = () => {
         <div className="container">
         <section className="row">
             <div className="col-md-6 text-center top-buffer">
-                <Link to = "courses" style={{ textDecoration: 'none' , color:'black'}}>
+                <Link to = "leads" style={{ textDecoration: 'none' , color:'black'}}>
                 <div className="card">
                     <div className="card-block mt-3">
                         <svg  className="mt-3 mb-4" id="Bold" enable-background="new 0 0 24 24"

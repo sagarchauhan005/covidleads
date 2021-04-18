@@ -18,7 +18,7 @@ const App = () => {
                     <Switch>
                         <Route exact path="/" component={Home} />
                         <Route path="/submit" component={SubmitForm} />
-                        <Route path="/courses" component={Leads} />
+                        <Route path="/leads" component={Leads} />
                     </Switch>
 
                 </div>
