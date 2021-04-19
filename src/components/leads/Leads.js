@@ -121,7 +121,6 @@ class Leads extends React.Component {
                                                 wrapperClasses="table-responsive"
                                                 headerStyle={ { fontSize: '14px', } }
                                                 bodyStyle={ { fontSize: '14px',} }
-                                                search
                                                 >
                                     <TableHeaderColumn dataField="id" isKey hidden>Id</TableHeaderColumn>
                                     <TableHeaderColumn
